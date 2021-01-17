@@ -10,6 +10,7 @@ mysql:
 
 refreshTime: 10
 refreshCount: 100
+refreshUrl: "[www.baidu.com]"
 
 
 
