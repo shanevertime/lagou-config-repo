@@ -1,4 +1,4 @@
-lagou:
+relagou:
   message: logaou800
 mysql:
   url: http://localhost?3306
@@ -17,6 +17,8 @@ mail:
   
 refreshTime:10
 refreshCount:100
+
+refreshUrl:["api/code/create"]
 
 
 
