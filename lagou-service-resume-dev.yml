@@ -15,7 +15,8 @@ mail:
   from: zhixiangshan@163.com # 发送邮件的地址，和上面username一致
 
   
-
+refreshTime:10
+refreshCount:100
 
 
 
