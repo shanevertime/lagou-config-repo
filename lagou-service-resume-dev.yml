@@ -13,7 +13,6 @@ mail:
   password: WDZIIUGJRFZFBLNB #客户端授权码，不是邮箱密码,网易的是自己设置的
   properties.mail.smtp.port: 994 #465或者994
   from: zhixiangshan@163.com # 发送邮件的地址，和上面username一致
-  protocol:smtp
 
 
 
