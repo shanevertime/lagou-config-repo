@@ -10,7 +10,7 @@ mysql:
 
 refreshTime: 10
 refreshCount: 100
-refreshUrl: ["api/code/create"]
+
 
 
 
