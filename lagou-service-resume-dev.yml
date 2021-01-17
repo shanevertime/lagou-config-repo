@@ -8,12 +8,9 @@ mysql:
   #邮件
   
 
-
-  
-refreshTime:10
-refreshCount:100
-
-refreshUrl:["api/code/create"]
+refreshTime: 10
+refreshCount: 100
+refreshUrl: ["api/code/create"]
 
 
 
